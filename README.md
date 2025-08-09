@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Guilherme Freitas
+# Guilherme Freitas
 
 **`Desenvolvedor FullStack`**
 
