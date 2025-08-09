@@ -69,7 +69,7 @@ Atualmente, atuo como desenvolvedor FullStack com foco no ecossistema JavaScript
 
 Você pode entrar em contato comigo por aqui:
 
-- [LinkedIn](linkedin.com/in/gui-freitass)
+- [LinkedIn](https://www.linkedin.com/in/gui-freitass/)
 - [E-mail](mailto:guilhermeaqf@gmail.com)
 - [Portfólio](https://react-portfolio-phi-brown.vercel.app/)
 
